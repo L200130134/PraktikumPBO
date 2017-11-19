@@ -7,4 +7,4 @@ Class: C
 Praktikum PBO
 =========
 
-Praktikum Pemrograman Berorientasi Obyek (sebelum UTS).
+Praktikum Pemrograman Berorientasi Obyek (sebelum dan sesudah UTS).
